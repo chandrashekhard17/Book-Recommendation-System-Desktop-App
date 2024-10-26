@@ -8,6 +8,9 @@ Date: 9-9-2024
 import pickle
 import streamlit as st
 import numpy as np
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning, module="sklearn")
+
 
 
 st.header('Book Recommender System Using Machine Learning')
