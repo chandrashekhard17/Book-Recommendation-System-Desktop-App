@@ -1,4 +1,11 @@
-streamlit
-numpy
-pandas
-scikit-learn
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+Pillow==9.4.0
+streamlit==1.27.0
+###check the environmental variable path is available to the streamlit and conda
+###conda --version
+###conda create -n myenv python=3.11
+###conda activate myenv
+###then installing streamlit with desired version
