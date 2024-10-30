@@ -9,6 +9,7 @@ A machine learning-based desktop application that provides personalized book rec
 - [Features](#features)
 - [Datasets](#datasets)
 - [APIs Used](#apis-used)
+- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Deployment](#deployment)
 - [Usage](#usage)
